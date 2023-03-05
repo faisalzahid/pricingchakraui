@@ -1,5 +1,6 @@
 /*code from chat gpt*/
 {
+  "plugins": ["next"],
   "rules": {
     "next/no-html-link-for-pages": [
       "error",
@@ -9,7 +10,6 @@
     ]
   }
 }
-
 
 
 
