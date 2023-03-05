@@ -1,3 +1,22 @@
+/*code from chat gpt*/
 {
-  "extends": "next/core-web-vitals"
+  "rules": {
+    "next/no-html-link-for-pages": [
+      "error",
+      {
+        "pagesDir": "./src/app"
+      }
+    ]
+  }
 }
+
+
+
+
+/*===========================-------*/
+
+/** original code is below **/
+
+// {
+//   "extends": "next/core-web-vitals"
+// }
